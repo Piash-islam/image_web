@@ -1,0 +1,24 @@
+@import url("https://fonts.googleapis.com/css2?family=The+Nautigal:wght@400;700&display=swap");
+p {
+  font-family: "The Nautigal", cursive;
+  font-size: 30px;
+  margin-left: 20px;
+  margin-bottom: 0;
+}
+
+#first {
+  margin-left: 2%;
+}
+#last {
+  margin-right: 2%;
+}
+img {
+  width: 30%;
+  height: 500px;
+  margin-top: 20px;
+}
+
+#middle {
+  margin-left: 2%;
+  margin-right: 2%;
+}
